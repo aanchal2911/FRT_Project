@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 641,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "How will the Beijing Games be remembered?",
+            "description": "Passports, pressure and pandas: A look back at two weeks of sports, drama and controversy.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-60429251",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1798/production/_123304060_gettyimages-1238512437.jpg",
+            "publishedAt": "2022-02-21T00:10:18Z",
+            "content": "By Stephen McDonellBBC News, Beijing\r\nImage source, Getty Images\r\nImage caption, China managed to get at least some spectators into stands\r\nThe Olympic flame has been extinguished. So what does the a… [+7920 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Trump's Truth Social app launches on Apple App Store - Reuters",
+            "description": "Donald Trump's new social media venture, Truth Social, launched late on Sunday in Apple's App Store, potentially marking the former president's return to social media after he was banned from several platforms last year.",
+            "url": "https://www.reuters.com/technology/trumps-truth-social-app-launches-apple-app-store-2022-02-21/",
+            "urlToImage": "https://www.reuters.com/resizer/ZeSD1sF2SJQb0DeTfRsqqWLvGkw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZSAJFSJPIFNCRNDEEV62DDHRRA.jpg",
+            "publishedAt": "2022-02-21T06:01:00Z",
+            "content": "Feb 21 (Reuters) - Donald Trump's new social media venture, Truth Social, launched late on Sunday in Apple's App Store, potentially marking the former president's return to social media after he was … [+3614 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Taiwan's January export orders brisk, outlook broadly positive - Reuters",
+            "description": "Taiwan's export orders grew broadly in line with expectations in January to a record high for the month thanks to sustained technology demand, but the government warned of lingering supply chain uncertainty despite a generally positive outlook.",
+            "url": "https://www.reuters.com/markets/europe/taiwans-january-export-orders-brisk-outlook-broadly-positive-2022-02-21/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=75",
+            "publishedAt": "2022-02-21T08:40:00Z",
+            "content": "TAIPEI, Feb 21 (Reuters) - Taiwan's export orders grew broadly in line with expectations in January to a record high for the month thanks to sustained technology demand, but the government warned of … [+2100 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Isobel Asher Hamilton)",
+            "title": "Trump's social media app Truth Social just launched on the App Store — but some users seem to be having trouble using it",
+            "description": "Former President Donald Trump's social media app Truth Social is now available on iPhone. Screenshots show it bears a striking resemblance to Twitter.",
+            "url": "https://www.businessinsider.com/donald-trump-truth-social-app-launch-app-store-apple-twitter-2022-2",
+            "urlToImage": "https://i.insider.com/621358a6462ff20019c5e3a2?width=1200&format=jpeg",
+            "publishedAt": "2022-02-21T10:34:00Z",
+            "content": "Former President Donald Trump launched his own social media app to the public in the early hours of Monday.\r\nScreenshots of the app, Truth Social, show that it bears a striking resemblance to Twitter… [+1609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Xataka.com"
+            },
+            "author": "Javier Pastor",
+            "title": "Apple prepara el desembarco del chip M2 y atentos, que ya se habla de un Mac Pro pequeñito pero matón",
+            "description": "La renovación del catálogo de los Mac está al caer, y en 2022 veremos unos cuantos nuevos modelos. Algunos aprovecharán los chips M1 Pro y M1 Max que ya vimos el año pasado en los nuevos MacBook Pro, y además destaca la llegada de los modelos con el nuevo chi…",
+            "url": "https://www.xataka.com/ordenadores/apple-prepara-desembarco-chip-m2-atentos-que-se-habla-mac-pro-pequenito-maton",
+            "urlToImage": "https://i.blogs.es/87d02e/captura-de-pantalla-2022-02-21-a-las-10.01.30/840_560.jpeg",
+            "publishedAt": "2022-02-21T09:31:50Z",
+            "content": "La renovación del catálogo de los Mac está al caer, y en 2022 veremos unos cuantos nuevos modelos. Algunos aprovecharán los chips M1 Pro y M1 Max que ya vimos el año pasado en los nuevos MacBook Pro,… [+2005 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Ben Schwan",
+            "title": "Google hält macOS-Systemdateien für Urheberrechtsverletzungen",
+            "description": "Die versteckten \".DS_Store\"-Files können von der Google-Drive-KI fehlerhaft interpretiert werden. Das wäre nicht das erste Mal solcher Probleme.",
+            "url": "https://www.heise.de/news/Google-haelt-macOS-Systemdateien-fuer-Urheberrechtsverletzungen-6496682.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/2/3/1/6/1/shutterstock_1016723902-de36aab8bde14150.jpg",
+            "publishedAt": "2022-02-21T08:17:00Z",
+            "content": "Googles Speicherdienst Drive hat zum wiederholten Mal ein Filterproblem. Diesmal sind harmlose Metadaten betroffen, die seit Jahrzehnten von Apple-Rechnern mit macOS-Betriebssystem generiert werden. … [+2240 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Marie-Claire Koch",
+            "title": "Trumps Twitter-Klon \"Truth Social\" für iOS-Nutzer in den USA zugänglich",
+            "description": "Donalds Trumps soziales Netzwerk \"Truth Social\" ist als iPhone-App in den USA gestartet – Aufmerksame hatten die Ankündigung vor Wochen im App Store entdeckt.",
+            "url": "https://www.heise.de/news/Trumps-Twitter-Klon-Truth-Social-fuer-iOS-Nutzer-in-den-USA-zugaenglich-6496924.html",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/3/2/3/3/6/4/ts-4a3978d8c8bc055f.png",
+            "publishedAt": "2022-02-21T09:50:00Z",
+            "content": "Lange war sie angekündigt, jetzt ist sie da Trumps eigener Twitter-Klon \"Truth Social\". Das bisher nur als iOS-App in den USA verfügbare soziale Netzwerk ist Trumps Reaktion auf seine Twitter-Sperre.… [+2399 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elespanol.com"
+            },
+            "author": null,
+            "title": "Google mata antes de tiempo la integración de Mensajes con Google Fotos",
+            "description": "Google ha decidido no activar, por el momento, la integración de su aplicación Mensajes con Google Fotos, que sustituía a los MMS.",
+            "url": "https://www.elespanol.com/elandroidelibre/aplicaciones/20220221/google-mata-tiempo-integracion-mensajes-fotos/651934822_0.html",
+            "urlToImage": "https://s1.eestatic.com/2022/02/21/elandroidelibre/aplicaciones/651944867_222041383_600x315.jpg",
+            "publishedAt": "2022-02-21T08:58:00Z",
+            "content": "Noticias relacionadas\r\nAl igual que hace Apple, Google saber que vincular unas aplicaciones a otras hace que el uso de las mismas aumente y que la posibilidad de que un usuario abandone su ecosistema… [+1504 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elespanol.com"
+            },
+            "author": null,
+            "title": "Samsung Galaxy S22 Ultra, análisis: la resurrección de los Galaxy Note",
+            "description": "Samsung ha pulido de forma precisa los pocos fallos que podrían achacársele al Galaxy S21 Ultra en un Samsung Galaxy S22 Ultra que nos ha encantado.",
+            "url": "https://www.elespanol.com/elandroidelibre/moviles-android/analisis/20220221/samsung-galaxy-s22-ultra-analisis-resurreccion-note/650434970_0.html",
+            "urlToImage": "https://s1.eestatic.com/2022/02/21/elandroidelibre/moviles-android/analisis/651945159_222050714_600x315.jpg",
+            "publishedAt": "2022-02-21T11:01:00Z",
+            "content": "Noticias relacionadas\r\nEs un Note. No en nombre, pero sí en todo lo demás. He querido empezar con la frase anterior este análisis porque en la misma está el resumen de lo bueno y lo malo de un Samsun… [+16854 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "塚本直樹",
+            "title": "AppleのVRヘッドセットはサブスクが必要に？",
+            "description": "スペックから価格情報までさまざまな噂が飛び交っているApple（アップル）のAR／VRヘッドセット。もしかしたらサブスクリプションによる月額支払が必要となるかも…という、新たなレポートが登場しました。",
+            "url": "https://www.gizmodo.jp/2022/02/apple-vr-headset-subscription.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/02/21/2022-02-10ARk00-1-w960.jpeg",
+            "publishedAt": "2022-02-21T09:00:00Z",
+            "content": "AppleARVR\r\nAppleiCloud\r\nTrendforceApple\r\nMetaOculusOculusAppleARVR\r\nAppleARVR\r\nSource: Apple Insider"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "mayumine",
+            "title": "アップル初のコンピュータ「Apple-1」、45年の謎がついに解明される",
+            "description": "アップル最初のPC「Apple-1」の基盤に書かれたシリアル番号。誰が書いたかは長年の謎だったが、調査の結果スティーヴ・ジョブスの筆跡と判明。",
+            "url": "https://www.gizmodo.jp/2022/02/who-wrote-the-serial-number-of-the-apple-1.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/02/20/20220219_apple-w960.jpg",
+            "publishedAt": "2022-02-21T04:00:00Z",
+            "content": "AppleApple-1\r\n4519767Apple-1200821008001-00##809to5Mac\r\n50Apple-1Byte Shop\r\n!?\r\nApple-12Apple-1PSA\r\nPSAApple-13!?\r\nApple-1 RegistryPSA\r\n01-0600\r\nApple-1\r\nSource: 9to5Mac, Apple-1 Registry"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.jp"
+            },
+            "author": "塚本直樹",
+            "title": "春は新型Macのラッシュ。Apple発表会は3月と5/6月の2段構え？",
+            "description": "Photo:Shutterstock買い切ることができるか？なにやら開催が近い予感の、Apple（アップル）のハードウェアイベント。これに関して、3月と5月／6月にわけて7機種の新型Macが登場するとの情報を、Bloombergが報告していますよ！2020年末にM1チップ（Appleシリコン）への移行が始まったMacラインナップですが、まだすべての機種が切り替えられたわけではありません。例えばワー",
+            "url": "https://www.gizmodo.jp/2022/02/the-next-mac-will-be-announced-twice-in-the-spring.html",
+            "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/02/21/shutterstock_1238920597-w960.jpg",
+            "publishedAt": "2022-02-21T10:30:00Z",
+            "content": "Apple3567MacBloomberg\r\n2020M1Apple MacMac ProIntelM1Mac\r\nBloomberg3M1 ProMac miniM2Mac miniM213MacBook Pro\r\n56M224iMacM2MacBook AirM1 ProM1 MaxiMac ProM1 Max24Mac ProMac\r\n2020WWDC2Apple \r\nSource: 9to… [+3 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Cambridge University Botanic Garden's 'Newton's apple tree' falls in storm",
+            "description": "The tree is one of many cloned from the one that led Isaac Newton to discover the laws of gravity.",
+            "url": "https://www.bbc.co.uk/news/uk-england-cambridgeshire-60453267",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13F3B/production/_123332718_fl-wockwqauh2pj.jpg",
+            "publishedAt": "2022-02-21T08:32:03Z",
+            "content": "Image source, Samuel Brockington\r\nImage caption, The botanic garden said the tree was a \"sad loss\" but a clone of it would be planted elsewhere\r\nCambridge University Botanic Garden has lost its \"Newt… [+1775 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kiyoshi Tane",
+            "title": "2022年内に7台以上の新型Mac発売？3月に第1弾、5～6月に第2弾が登場か",
+            "description": "2022年内に少なくとも7台、Appleシリコン（アップル独自開発チップ）搭載の新たなMacが投入されるとの予想が伝えられています。",
+            "url": "https://japanese.engadget.com/apple-launch-new-macs-march-may-june-034040842.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/6f0c11b0-92c4-11ec-b5ff-f4cb93061ee9",
+            "publishedAt": "2022-02-21T03:40:40Z",
+            "content": "33iPhone SE5iPad Air1Mac20227AppleMac\r\nBloombergMark GurmanPower OnMac\r\n<ul><li>M1 ProMac mini\r\n</li><li>M213MacBook Pro20201416MacBook Pro\r\n</li><li>M2Mac mini\r\n</li><li>M224iMac\r\n</li><li>M2MacBook… [+421 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Julie Hay",
+            "title": "Après Le Seigneur des Anneaux, Amazon s’attaque à une autre licence culte",
+            "description": "Ridley Scott va produire une série pour Amazon Prime Video. Le réalisateur va ressusciter Blade Runner pour la plateforme. \nAprès Le Seigneur des Anneaux, Amazon s’attaque à une autre licence culte",
+            "url": "https://www.journaldugeek.com/2022/02/21/apres-le-seigneur-des-anneaux-amazon-sattaque-a-une-autre-licence-culte/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/02/ajouter-un-itre5.jpg",
+            "publishedAt": "2022-02-21T08:30:46Z",
+            "content": "Ridley Scott va produire une série pour Amazon Prime Video. Le réalisateur va ressusciter Blade Runner pour la plateforme.Amazon Prime Video sapprête à dévoiler sa série la plus ambitieuse à ce jour.… [+2441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Journal du geek"
+            },
+            "author": "Amandine Jonniaux",
+            "title": "Kanye West boycotte les plateformes de streaming, mais fait un carton avec son lecteur mp3",
+            "description": "L'artiste ne veut plus collaborer avec \"le système oppressif\" des services de musique en streaming, et entend bien se débrouiller seul. \nKanye West boycotte les plateformes de streaming, mais fait un carton avec son lecteur mp3",
+            "url": "https://www.journaldugeek.com/2022/02/21/kanye-west-boycotte-les-plateformes-de-streaming-mais-fait-un-carton-avec-son-lecteur-mp3/",
+            "urlToImage": "https://www.journaldugeek.com/content/uploads/2021/08/template-jdg-84-1.jpg",
+            "publishedAt": "2022-02-21T10:00:23Z",
+            "content": "L'artiste ne veut plus collaborer avec \"le système oppressif\" des services de musique en streaming, et entend bien se débrouiller seul.Donda 2, le dernier album de Ye ne sera pas accessible sur Apple… [+1993 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Jesús Quesada",
+            "title": "El imponente iPhone 13 Pro Max alcanza nuevo precio mínimo histórico: gran pantalla, gran cámara y gran potencia",
+            "description": "Cada vez hay más smartphones en el catálogo de Apple, cada uno de ellos con un precio y características para que los usuarios elijan el que mejor se ajusta a sus necesidades (y presupuesto). El más completo (y costoso) es el iPhone 13 Pro Max, pero marca en A…",
+            "url": "https://www.applesfera.com/seleccion/imponente-iphone-13-pro-max-alcanza-nuevo-precio-minimo-historico-gran-pantalla-gran-camara-gran-potencia",
+            "urlToImage": "https://i.blogs.es/b43605/iphone-13-pro-max/840_560.jpg",
+            "publishedAt": "2022-02-21T08:53:46Z",
+            "content": "Cada vez hay más smartphones en el catálogo de Apple, cada uno de ellos con un precio y características para que los usuarios elijan el que mejor se ajusta a sus necesidades (y presupuesto). El más c… [+2806 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "Eduardo Archanco",
+            "title": "Todos los Mac que esperamos en 2022 y cuál cree Gurman que veremos en marzo",
+            "description": "Como cada domingo, Mark Gurman despliega sus predicciones del mundo Apple en su newsletter. Antes de que 2022 hiciera su entrada, ya esperábamos un 2022 lleno de renovaciones, pero ahora tenemos cosas más concretas. Especialmente en lo referente al Mac, pues …",
+            "url": "https://www.applesfera.com/portatil/todos-mac-que-esperamos-2022-cual-cree-gurman-que-veremos-marzo",
+            "urlToImage": "https://i.blogs.es/84f35f/portada/840_560.jpeg",
+            "publishedAt": "2022-02-21T08:42:04Z",
+            "content": "Como cada domingo, Mark Gurman despliega sus predicciones del mundo Apple en su newsletter. Antes de que 2022 hiciera su entrada, ya esperábamos un 2022 lleno de renovaciones, pero ahora tenemos cosa… [+2832 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applesfera.com"
+            },
+            "author": "David Bernal Raspall",
+            "title": "El espionaje mundial de Pegasus en jaque por una foto: una imagen maliciosa en un iPhone desató su descubrimiento",
+            "description": "A estas alturas todos hemos oído hablar de Pegasus y del NSO Group. Gracias a esta empresa israelí, activistas, disidentes políticos, periodistas y otras personalidades de todo el mundo vieron su información personal, comunicaciones y actividad espiada de for…",
+            "url": "https://www.applesfera.com/seguridad/espionaje-mundial-pegasus-jaque-foto-imagen-maliciosa-iphone-desato-su-descubrimiento",
+            "urlToImage": "https://i.blogs.es/f72fd7/kevin-ku-w7zyugynprq-unsplash/840_560.jpeg",
+            "publishedAt": "2022-02-21T09:22:24Z",
+            "content": "A estas alturas todos hemos oído hablar de Pegasus y del NSO Group. Gracias a esta empresa israelí, activistas, disidentes políticos, periodistas y otras personalidades de todo el mundo vieron su inf… [+3320 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Presse-citron"
+            },
+            "author": "Romain Pomian-Bonnemaison",
+            "title": "Facebook, Google… à quoi ressemblait le web dans les années 2000 ?",
+            "description": "Internet a énormément changé en 20 ans. Cette \"machine à remonter le temps\" virtuelle vous permet de visiter les sites web de Facebook, Google, Apple, Twitter et plus encore dans leur version du début des années 2000.",
+            "url": "https://www.presse-citron.net/facebook-google-a-quoi-ressemblait-le-web-dans-les-annees-2000/",
+            "urlToImage": "https://www.presse-citron.net/app/uploads/2022/02/internet-annees-2000.jpg",
+            "publishedAt": "2022-02-21T06:30:48Z",
+            "content": "Le site The Internet Archive est sans conteste l’un des plus utiles – et plus anciens – sites du web. Son outil The Wayback Machine (la “machine à remonter le temps” en Français), prend à intervalles… [+3133 chars]"
+        }
+    ]
+}
